@@ -1,0 +1,6 @@
+{
+  "name": "t141-nodejs-sample-server",
+  "scripts": {
+    "start": "node server"
+  }
+}
